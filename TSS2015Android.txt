@@ -1,0 +1,31 @@
+requirements tecnologici
+	SDK android
+	IDE eclipse o android studio
+	emulatore (p.es genymotion)
+
+	sdk manager scaricare le librerie e utilities android
+
+	avd manager crea emulatore o usa genymotion
+
+	src/java
+	res/xml
+	manifest
+
+	xml > 
+	layout (relative, linear, table, frame, ...) servono per impaginare le viste view
+
+	view: textview, imageview, ...
+	widget: button, check, radio, ...
+
+	viewgroup particolari con adapter, p es listview, gridview, ...
+
+	src, generated contents: R.java
+	activity 
+	intent espliciti, impliciti
+
+	inviare messaggi all'utente:
+	Toast
+	AlertDialog
+
+
+
