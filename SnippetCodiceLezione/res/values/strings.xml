@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BogliaccinoMyApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="author">Mauro Bogliaccino</string>
+    <string name="ente">Immaginazione e Lavoro</string>
+    <string name="anno_formativo">Anno Formativo 2014-2015</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="btn_about">About me</string>
+    <string name="btn_portfolio">Portfolio</string>
+    <string name="btn_utilities">Utilities</string>
+    <string name="title_activity_dado">Dado</string>
+    <string name="title_activity_portfolio">Portfolio</string>
+    <string name="nome_corso">Tecnico di Sviluppo Software</string>
+    <string name="docente">Mauro Bogliaccino</string>
+
+    <string-array name="about">
+        <item>about</item>
+        <item>curriculum</item>
+        <item>contattami</item>
+        <item>gallery</item>
+    </string-array>
+
+    <string name="title_activity_about">About</string>
+
+</resources>
