@@ -6,7 +6,7 @@ import android.view.Menu;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 
-public class MainActivity extends Activity {
+public class MyWebView extends Activity {
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
